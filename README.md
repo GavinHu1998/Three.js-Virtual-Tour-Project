@@ -52,29 +52,8 @@ project/
 
 ## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd project
-```
-
-2. Start a local static server (required because `fetch` cannot load JSON files via `file://` protocol):
-
-```bash
-# Python 3
-python -m http.server 8080
-
-# Node.js (http-server)
-npm install -g http-server
-http-server -p 8080
-```
-
-3. Open the project in your browser:
-
-```
-http://localhost:8080
-```
+npm i
+npm start
 
 ---
 
