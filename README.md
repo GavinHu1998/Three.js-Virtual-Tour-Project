@@ -52,8 +52,8 @@ project/
 
 ## Getting Started
 
-npm i
-npm start
+* npm i
+* npm start
 
 ---
 
